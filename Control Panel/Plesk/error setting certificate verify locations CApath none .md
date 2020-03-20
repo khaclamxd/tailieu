@@ -1,4 +1,4 @@
-![](./images/JUN-VU.jpg)
+![](https://github.com/khaclamxd/tailieu/blob/master/Control%20Panel/Plesk/images/JUN-VU.jpg)
 
     # Log in to the server via RDP.
 
@@ -17,5 +17,5 @@
 
     ***Wait until Daily task is executed (It is executed once a day).***
 	
-	![](./images/hello.jpg)
+	![](https://github.com/khaclamxd/tailieu/blob/master/Control%20Panel/Plesk/images/hello.jpg)
 
