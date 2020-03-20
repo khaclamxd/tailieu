@@ -1,4 +1,4 @@
-![](https://github.com/khaclamxd/tailieu/blob/master/Control%20Panel/Plesk/images/JUN-VU.jpg)
+![](./images/hello.jpg)
 
     # Log in to the server via RDP.
 
